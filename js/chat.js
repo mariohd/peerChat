@@ -322,7 +322,7 @@ $(document).ready(function(){
 	gooOff();
 	updateChatHeight();
 
-	var peer = new Peer({key: 'lwjd5qra8257b9'});
+	var peer = new Peer({key: 'ln5rfql2w6wasjor'});
 	var peerId, conn;
 
 	peer.on('connection', function(conn) {
